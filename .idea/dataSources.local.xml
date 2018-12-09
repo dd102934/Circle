@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails Circle: test" uuid="a18ce09a-8b50-4c62-a778-79c6b15b448c">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+    </data-source>
+    <data-source name="Rails Circle: production" uuid="b8fcaf8d-1882-4d58-b092-4998b23e0748">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>Circle</user-name>
+    </data-source>
+    <data-source name="Rails Circle: development" uuid="38b371cb-a023-48ca-9a68-e19bd16aa89c">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>user01</user-name>
+    </data-source>
+  </component>
+</project>
