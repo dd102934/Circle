@@ -1,4 +1,10 @@
 Rails.application.routes.draw do
+  get 'users/edit'
+  get 'users/index'
+  get 'users/likes'
+  get 'users/login_form'
+  get 'users/new'
+  get 'users/show'
   post "likes/:post_id/create" => "likes#create"
   post "likes/:post_id/destroy" => "likes#destroy"
 
