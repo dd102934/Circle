@@ -34,7 +34,7 @@
     border: none;
     cursor: pointer;
   }
-  
+
   /* 共通レイアウト ================================ */
   body {
     color: #2d3133;
@@ -59,6 +59,7 @@
     padding-right: 15px;
     clear: both;
   }
+
   
   /* ヘッダー ================================ */
   header {
@@ -78,7 +79,7 @@
   
   .header-logo a{
     color: white;
-    font-size: 22px;
+    font-size: 35px;
   }
   
   .header-menus {
@@ -89,14 +90,14 @@
   .header-menus li {
     float: left;
     line-height: 64px;
-    font-size: 13px;
+    font-size: 18px;
     color: white;
     padding-left: 15px;
   }
   
   .header-menus a {
     float: left;
-    font-size: 13px;
+    font-size: 16px;
     color: white;
   }
   
@@ -123,7 +124,7 @@
     height: auto;
     min-height: 100%;
     color: white;
-    background-color: #3ecdc6;
+    background-color: #cdcdcd;
     background-repeat: no-repeat;
     background-position: center 50%;
     background-size: cover;
@@ -145,7 +146,8 @@
   .top-main p {
     font-size: 24px;
   }
-  
+
+
   /* about ================================ */
   .about-main {
     padding: 200px 0 100px;
@@ -156,7 +158,7 @@
     height: auto;
     min-height: 100%;
     color: white;
-    background-color: #3ecdc6;
+    background-color: #cdcdcd;
     background-repeat: no-repeat;
     background-position: center 50%;
     background-size: cover;
